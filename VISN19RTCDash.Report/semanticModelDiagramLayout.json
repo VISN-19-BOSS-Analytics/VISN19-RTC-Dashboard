@@ -1,0 +1,295 @@
+{
+  "version": "1.1.0",
+  "diagrams": [
+    {
+      "ordinal": 0,
+      "scrollPosition": {
+        "x": 0,
+        "y": 0
+      },
+      "nodes": [
+        {
+          "location": {
+            "x": 1642.0370314906795,
+            "y": 921.91118693827184
+          },
+          "nodeIndex": "_info Measures",
+          "nodeLineageTag": "3c4aca78-c146-4f7d-b382-01587418af7d",
+          "size": {
+            "height": 224,
+            "width": 234
+          },
+          "zIndex": 0
+        },
+        {
+          "location": {
+            "x": 1926.0370314906795,
+            "y": 909.91118693827184
+          },
+          "nodeIndex": "_info Tables",
+          "nodeLineageTag": "6ff261a2-f9d3-492b-8814-8e25c1b1e816",
+          "size": {
+            "height": 248,
+            "width": 234
+          },
+          "zIndex": 0
+        },
+        {
+          "location": {
+            "x": 2210.0370314906795,
+            "y": 883.91118693827184
+          },
+          "nodeIndex": "_Measures",
+          "nodeLineageTag": "5bea491a-7f8b-4de3-b68d-d4f471efb282",
+          "size": {
+            "height": 300,
+            "width": 234
+          },
+          "zIndex": 0
+        },
+        {
+          "location": {
+            "x": 361.28976166010887,
+            "y": 1175.2517335626746
+          },
+          "nodeIndex": "Activity Staff",
+          "nodeLineageTag": "10e5c59a-6346-4ed5-80b4-ea7ed52553a9",
+          "size": {
+            "height": 300,
+            "width": 234
+          },
+          "zIndex": 0
+        },
+        {
+          "location": {
+            "x": 350.10673799087522,
+            "y": 343.82045628216861
+          },
+          "nodeIndex": "Appointment Location",
+          "nodeLineageTag": "1e1eaedc-9091-492d-a7bd-247d22952a0b",
+          "size": {
+            "height": 300,
+            "width": 234
+          },
+          "zIndex": 0
+        },
+        {
+          "location": {
+            "x": 232.89090461855145,
+            "y": -9.9902317326632328
+          },
+          "nodeIndex": "Appointment Location Provider",
+          "nodeLineageTag": "21adc4f1-4333-4cae-a855-59a9455ac332",
+          "size": {
+            "height": 300,
+            "width": 234
+          },
+          "zIndex": 0
+        },
+        {
+          "location": {
+            "x": 647.34170912298964,
+            "y": 1050.4344262726725
+          },
+          "nodeIndex": "Appointments",
+          "nodeLineageTag": "071e132c-a8c0-4a71-8174-2dc1733aa679",
+          "size": {
+            "height": 300,
+            "width": 234
+          },
+          "zIndex": 0
+        },
+        {
+          "location": {
+            "x": 1007.3152479738163,
+            "y": 1138.4173867472678
+          },
+          "nodeIndex": "Cancellation Reason",
+          "nodeLineageTag": "8f320309-21cf-4bc9-85b1-a7bb10cec53e",
+          "size": {
+            "height": 152,
+            "width": 234
+          },
+          "zIndex": 0
+        },
+        {
+          "location": {
+            "x": 727.10208310216649,
+            "y": 1404.0736039130479
+          },
+          "nodeIndex": "Date - Activity Date",
+          "nodeLineageTag": "a08db16d-452a-452a-bbab-2fbe67582a63",
+          "size": {
+            "height": 300,
+            "width": 234
+          },
+          "zIndex": 0
+        },
+        {
+          "location": {
+            "x": 460.01646251599044,
+            "y": 697.57007282707173
+          },
+          "nodeIndex": "Date - Appointment Date",
+          "nodeLineageTag": "fdac4308-b6a4-406e-8bc4-d04a7c83e75c",
+          "size": {
+            "height": 300,
+            "width": 234
+          },
+          "zIndex": 0
+        },
+        {
+          "location": {
+            "x": 755.48687926763614,
+            "y": 1757.8223738765437
+          },
+          "nodeIndex": "Date - Cancel Date",
+          "nodeLineageTag": "403b64db-e8af-41b0-b8e6-1c6bf502731c",
+          "size": {
+            "height": 300,
+            "width": 234
+          },
+          "zIndex": 0
+        },
+        {
+          "location": {
+            "x": 1042.5585849364811,
+            "y": 1560.6796155234497
+          },
+          "nodeIndex": "Date - Made Date",
+          "nodeLineageTag": "6e9a9e50-1df4-4edf-b744-977cfaef6486",
+          "size": {
+            "height": 300,
+            "width": 234
+          },
+          "zIndex": 0
+        },
+        {
+          "location": {
+            "x": 10,
+            "y": 1174.374978186901
+          },
+          "nodeIndex": "Eligibility At Visit",
+          "nodeLineageTag": "2c25be97-440a-46d0-8516-8a1136f35357",
+          "size": {
+            "height": 128,
+            "width": 234
+          },
+          "zIndex": 0
+        },
+        {
+          "location": {
+            "x": 519.164188120438,
+            "y": -10
+          },
+          "nodeIndex": "Facility",
+          "nodeLineageTag": "002f356a-805f-4ed8-b839-fdbab74b301a",
+          "size": {
+            "height": 300,
+            "width": 234
+          },
+          "zIndex": 0
+        },
+        {
+          "location": {
+            "x": 2494.0370314906795,
+            "y": 981.91118693827184
+          },
+          "nodeIndex": "Last Refreshed Date",
+          "nodeLineageTag": "2012ebdb-5263-4007-8f50-a7bfa29c8e19",
+          "size": {
+            "height": 104,
+            "width": 234
+          },
+          "zIndex": 0
+        },
+        {
+          "location": {
+            "x": 286.69088284912277,
+            "y": 1606.9361900543895
+          },
+          "nodeIndex": "Patient",
+          "nodeLineageTag": "39c4a498-2039-431a-b7f7-2b3ef52bb1c4",
+          "size": {
+            "height": 300,
+            "width": 234
+          },
+          "zIndex": 0
+        },
+        {
+          "location": {
+            "x": 1368.0370314906795,
+            "y": 1559.0967666761505
+          },
+          "nodeIndex": "ssn_users",
+          "nodeLineageTag": "eefb9bfd-939e-49aa-acba-309ae881100e",
+          "size": {
+            "height": 128,
+            "width": 234
+          },
+          "zIndex": 0
+        },
+        {
+          "location": {
+            "x": 745.15103451893856,
+            "y": 697.82843027021477
+          },
+          "nodeIndex": "Staff - Cancel By Staff",
+          "nodeLineageTag": "4d5d15ce-3f4c-463e-9913-0a91b6c6fe32",
+          "size": {
+            "height": 300,
+            "width": 234
+          },
+          "zIndex": 0
+        },
+        {
+          "location": {
+            "x": 155.28400005081079,
+            "y": 821.549795147776
+          },
+          "nodeIndex": "Staff - Made By Staff",
+          "nodeLineageTag": "1fd1b253-c11a-4d35-b5ae-1da704b50b82",
+          "size": {
+            "height": 300,
+            "width": 234
+          },
+          "zIndex": 0
+        },
+        {
+          "location": {
+            "x": 1232.973886147272,
+            "y": 1403.9084683853939
+          },
+          "nodeIndex": "VistaSite",
+          "nodeLineageTag": "a6c7e2f8-10d4-4bef-84f7-7e16b4c5767d",
+          "size": {
+            "height": 104,
+            "width": 234
+          },
+          "zIndex": 0
+        },
+        {
+          "location": {
+            "x": 2768.0370314906795,
+            "y": 933.91118693827184
+          },
+          "nodeIndex": "Appointment Time",
+          "nodeLineageTag": "8403dfb4-59b8-413a-955d-df7e147d0dfc",
+          "size": {
+            "height": 200,
+            "width": 234
+          },
+          "zIndex": 0
+        }
+      ],
+      "name": "All tables",
+      "zoomValue": 100,
+      "pinKeyFieldsToTop": false,
+      "showExtraHeaderInfo": false,
+      "hideKeyFieldsWhenCollapsed": false,
+      "tablesLocked": false
+    }
+  ],
+  "selectedDiagram": "All tables",
+  "defaultDiagram": "All tables"
+}
